@@ -1,0 +1,2 @@
+# Node.js standard library only - no external dependencies!
+# Your console logs are dependency enough.
